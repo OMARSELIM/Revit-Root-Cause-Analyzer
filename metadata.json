@@ -1,0 +1,5 @@
+{
+  "name": "Revit Root Cause Analyzer",
+  "description": "An AI-powered tool that goes beyond counting Revit warnings. It analyzes warning logs to identify underlying root causes and suggests systemic, radical solutions using Gemini 3.",
+  "requestFramePermissions": []
+}
